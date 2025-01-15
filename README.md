@@ -141,5 +141,8 @@ Strategic Decision-Making:
 Empower stakeholders with actionable insights for planning marketing campaigns, inventory management, and resource allocation
 
 
+OUTPUT:
+
+![image](https://github.com/user-attachments/assets/742c7c51-f568-4c9c-b225-e85fe0b24095)
 
 
