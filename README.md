@@ -13,8 +13,7 @@ Duration:Dec 2024 to Jan 2025
 
 
 
-
-#PROJECT TITLE:Comprehensive Sales Data Analysis
+PROJECT TITLE:Comprehensive Sales Data Analysis
 
 
 .Key Performance Indicator (KPI): "Sum of Sales"
